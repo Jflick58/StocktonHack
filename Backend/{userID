@@ -1,0 +1,12 @@
+HTTP/2 500 
+content-type: text/html
+content-length: 291
+date: Sat, 21 Jul 2018 23:09:23 GMT
+x-amzn-requestid: 1af8f482-8d3b-11e8-a31d-d12ad5193532
+x-amzn-remapped-content-length: 291
+x-amz-apigw-id: KZp9dFCWIAMFpzg=
+x-amzn-trace-id: Root=1-5b53bd22-83a3d6c00975bf20de906258;Sampled=0
+x-cache: Error from cloudfront
+via: 1.1 b5546ff55405d525045e7263ba6db013.cloudfront.net (CloudFront)
+x-amz-cf-id: F9YzMPS2cU2bY-t2E8PIlmiKC0CuAwPeSmpo3T_e4qBCw2uNEjx90g==
+
